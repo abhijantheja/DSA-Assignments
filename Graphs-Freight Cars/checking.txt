@@ -1,0 +1,416 @@
+Mumbai
+Parcel ID: P2Mumbai232delivered: 0, Parcel origin: Mumbai, Parcel location: Mumbai, Parcel destination: Visakhapatnam, Parcel priority: 2
+Parcel ID: P2Mumbai231delivered: 0, Parcel origin: Mumbai, Parcel location: Mumbai, Parcel destination: Bangalore, Parcel priority: 4
+Parcel ID: P2Mumbai224delivered: 0, Parcel origin: Mumbai, Parcel location: Mumbai, Parcel destination: Ambala, Parcel priority: 9
+Parcel ID: P2Mumbai222delivered: 0, Parcel origin: Mumbai, Parcel location: Mumbai, Parcel destination: Ambala, Parcel priority: 7
+Parcel ID: P2Mumbai219delivered: 0, Parcel origin: Mumbai, Parcel location: Mumbai, Parcel destination: Ambala, Parcel priority: 8
+Parcel ID: P2Mumbai220delivered: 0, Parcel origin: Mumbai, Parcel location: Mumbai, Parcel destination: Ambala, Parcel priority: 3
+Parcel ID: P2Mumbai223delivered: 0, Parcel origin: Mumbai, Parcel location: Mumbai, Parcel destination: Ambala, Parcel priority: 3
+Parcel ID: P2Mumbai221delivered: 0, Parcel origin: Mumbai, Parcel location: Mumbai, Parcel destination: Ambala, Parcel priority: 8
+Parcel ID: P2Mumbai225delivered: 0, Parcel origin: Mumbai, Parcel location: Mumbai, Parcel destination: Ambala, Parcel priority: 4
+Parcel ID: P2Mumbai226delivered: 0, Parcel origin: Mumbai, Parcel location: Mumbai, Parcel destination: Ludhiana, Parcel priority: 5
+Parcel ID: P2Mumbai230delivered: 0, Parcel origin: Mumbai, Parcel location: Mumbai, Parcel destination: Hyderabad, Parcel priority: 9
+Parcel ID: P2Mumbai227delivered: 0, Parcel origin: Mumbai, Parcel location: Mumbai, Parcel destination: Mangalore, Parcel priority: 8
+Parcel ID: P2Mumbai229delivered: 0, Parcel origin: Mumbai, Parcel location: Mumbai, Parcel destination: Nagpur, Parcel priority: 5
+Parcel ID: P2Mumbai228delivered: 0, Parcel origin: Mumbai, Parcel location: Mumbai, Parcel destination: Jaipur, Parcel priority: 4
+next vertex
+Bangalore
+next vertex
+Hyderabad
+Parcel ID: P2Hyderabad194delivered: 0, Parcel origin: Hyderabad, Parcel location: Hyderabad, Parcel destination: Bhopal, Parcel priority: 5
+Parcel ID: P2Hyderabad191delivered: 0, Parcel origin: Hyderabad, Parcel location: Hyderabad, Parcel destination: Faridabad, Parcel priority: 10
+Parcel ID: P2Hyderabad193delivered: 0, Parcel origin: Hyderabad, Parcel location: Hyderabad, Parcel destination: Belgaum, Parcel priority: 10
+Parcel ID: P2Hyderabad195delivered: 0, Parcel origin: Hyderabad, Parcel location: Hyderabad, Parcel destination: Nagpur, Parcel priority: 8
+Parcel ID: P2Hyderabad187delivered: 0, Parcel origin: Hyderabad, Parcel location: Hyderabad, Parcel destination: Nagpur, Parcel priority: 6
+Parcel ID: P2Hyderabad196delivered: 0, Parcel origin: Hyderabad, Parcel location: Hyderabad, Parcel destination: Ambala, Parcel priority: 5
+Parcel ID: P2Hyderabad188delivered: 0, Parcel origin: Hyderabad, Parcel location: Hyderabad, Parcel destination: Ludhiana, Parcel priority: 7
+Parcel ID: P2Hyderabad190delivered: 0, Parcel origin: Hyderabad, Parcel location: Hyderabad, Parcel destination: Ludhiana, Parcel priority: 1
+Parcel ID: P2Hyderabad184delivered: 0, Parcel origin: Hyderabad, Parcel location: Hyderabad, Parcel destination: Patna, Parcel priority: 10
+Parcel ID: P2Hyderabad186delivered: 0, Parcel origin: Hyderabad, Parcel location: Hyderabad, Parcel destination: Patna, Parcel priority: 8
+Parcel ID: P2Hyderabad178delivered: 0, Parcel origin: Hyderabad, Parcel location: Hyderabad, Parcel destination: Patna, Parcel priority: 4
+Parcel ID: P2Hyderabad180delivered: 0, Parcel origin: Hyderabad, Parcel location: Hyderabad, Parcel destination: Patna, Parcel priority: 7
+Parcel ID: P2Hyderabad179delivered: 0, Parcel origin: Hyderabad, Parcel location: Hyderabad, Parcel destination: Patna, Parcel priority: 7
+Parcel ID: P2Hyderabad182delivered: 0, Parcel origin: Hyderabad, Parcel location: Hyderabad, Parcel destination: Patna, Parcel priority: 3
+Parcel ID: P2Hyderabad183delivered: 0, Parcel origin: Hyderabad, Parcel location: Hyderabad, Parcel destination: Patna, Parcel priority: 2
+Parcel ID: P2Hyderabad177delivered: 0, Parcel origin: Hyderabad, Parcel location: Hyderabad, Parcel destination: Patna, Parcel priority: 3
+Parcel ID: P2Hyderabad185delivered: 0, Parcel origin: Hyderabad, Parcel location: Hyderabad, Parcel destination: Patna, Parcel priority: 5
+Parcel ID: P2Hyderabad181delivered: 0, Parcel origin: Hyderabad, Parcel location: Hyderabad, Parcel destination: Patna, Parcel priority: 7
+Parcel ID: P2Hyderabad192delivered: 0, Parcel origin: Hyderabad, Parcel location: Hyderabad, Parcel destination: Patna, Parcel priority: 7
+Parcel ID: P2Hyderabad189delivered: 0, Parcel origin: Hyderabad, Parcel location: Hyderabad, Parcel destination: Mangalore, Parcel priority: 3
+next vertex
+Surat
+Parcel ID: P2Surat175delivered: 0, Parcel origin: Surat, Parcel location: Surat, Parcel destination: Nashik, Parcel priority: 9
+Parcel ID: P2Surat176delivered: 0, Parcel origin: Surat, Parcel location: Surat, Parcel destination: Ludhiana, Parcel priority: 5
+Parcel ID: P2Surat174delivered: 0, Parcel origin: Surat, Parcel location: Surat, Parcel destination: Ahmedabad, Parcel priority: 9
+Parcel ID: P2Surat171delivered: 0, Parcel origin: Surat, Parcel location: Surat, Parcel destination: Belgaum, Parcel priority: 6
+Parcel ID: P2Surat172delivered: 0, Parcel origin: Surat, Parcel location: Surat, Parcel destination: Belgaum, Parcel priority: 2
+Parcel ID: P2Surat173delivered: 0, Parcel origin: Surat, Parcel location: Surat, Parcel destination: Belgaum, Parcel priority: 4
+next vertex
+Ludhiana
+Parcel ID: P2Ludhiana142delivered: 0, Parcel origin: Ludhiana, Parcel location: Ludhiana, Parcel destination: Ahmedabad, Parcel priority: 10
+Parcel ID: P2Ludhiana141delivered: 0, Parcel origin: Ludhiana, Parcel location: Ludhiana, Parcel destination: Kolkata, Parcel priority: 4
+Parcel ID: P2Ludhiana134delivered: 0, Parcel origin: Ludhiana, Parcel location: Ludhiana, Parcel destination: Jaipur, Parcel priority: 10
+Parcel ID: P2Ludhiana136delivered: 0, Parcel origin: Ludhiana, Parcel location: Ludhiana, Parcel destination: Jaipur, Parcel priority: 9
+Parcel ID: P2Ludhiana135delivered: 0, Parcel origin: Ludhiana, Parcel location: Ludhiana, Parcel destination: Jaipur, Parcel priority: 2
+Parcel ID: P2Ludhiana133delivered: 0, Parcel origin: Ludhiana, Parcel location: Ludhiana, Parcel destination: Jaipur, Parcel priority: 8
+Parcel ID: P2Ludhiana137delivered: 0, Parcel origin: Ludhiana, Parcel location: Ludhiana, Parcel destination: Jaipur, Parcel priority: 8
+Parcel ID: P2Ludhiana140delivered: 0, Parcel origin: Ludhiana, Parcel location: Ludhiana, Parcel destination: Bangalore, Parcel priority: 8
+Parcel ID: P2Ludhiana138delivered: 0, Parcel origin: Ludhiana, Parcel location: Ludhiana, Parcel destination: Madurai, Parcel priority: 1
+Parcel ID: P2Ludhiana139delivered: 0, Parcel origin: Ludhiana, Parcel location: Ludhiana, Parcel destination: Pune, Parcel priority: 8
+next vertex
+Nashik
+Parcel ID: P2Nashik162delivered: 0, Parcel origin: Nashik, Parcel location: Nashik, Parcel destination: Ludhiana, Parcel priority: 1
+Parcel ID: P2Nashik161delivered: 0, Parcel origin: Nashik, Parcel location: Nashik, Parcel destination: Jaipur, Parcel priority: 9
+Parcel ID: P2Nashik153delivered: 0, Parcel origin: Nashik, Parcel location: Nashik, Parcel destination: Delhi, Parcel priority: 10
+Parcel ID: P2Nashik157delivered: 0, Parcel origin: Nashik, Parcel location: Nashik, Parcel destination: Delhi, Parcel priority: 9
+Parcel ID: P2Nashik155delivered: 0, Parcel origin: Nashik, Parcel location: Nashik, Parcel destination: Delhi, Parcel priority: 4
+Parcel ID: P2Nashik156delivered: 0, Parcel origin: Nashik, Parcel location: Nashik, Parcel destination: Delhi, Parcel priority: 3
+Parcel ID: P2Nashik154delivered: 0, Parcel origin: Nashik, Parcel location: Nashik, Parcel destination: Delhi, Parcel priority: 8
+Parcel ID: P2Nashik159delivered: 0, Parcel origin: Nashik, Parcel location: Nashik, Parcel destination: Patna, Parcel priority: 10
+Parcel ID: P2Nashik158delivered: 0, Parcel origin: Nashik, Parcel location: Nashik, Parcel destination: Lucknow, Parcel priority: 6
+Parcel ID: P2Nashik160delivered: 0, Parcel origin: Nashik, Parcel location: Nashik, Parcel destination: Pune, Parcel priority: 5
+next vertex
+Tirupati
+Parcel ID: P3Tirupati288delivered: 0, Parcel origin: Tirupati, Parcel location: Tirupati, Parcel destination: Patna, Parcel priority: 8
+Parcel ID: P3Tirupati287delivered: 0, Parcel origin: Tirupati, Parcel location: Tirupati, Parcel destination: Pune, Parcel priority: 3
+Parcel ID: P3Tirupati285delivered: 0, Parcel origin: Tirupati, Parcel location: Tirupati, Parcel destination: Lucknow, Parcel priority: 7
+Parcel ID: P3Tirupati283delivered: 0, Parcel origin: Tirupati, Parcel location: Tirupati, Parcel destination: Ludhiana, Parcel priority: 3
+Parcel ID: P3Tirupati284delivered: 0, Parcel origin: Tirupati, Parcel location: Tirupati, Parcel destination: Ludhiana, Parcel priority: 2
+Parcel ID: P3Tirupati281delivered: 0, Parcel origin: Tirupati, Parcel location: Tirupati, Parcel destination: Ludhiana, Parcel priority: 2
+Parcel ID: P3Tirupati282delivered: 0, Parcel origin: Tirupati, Parcel location: Tirupati, Parcel destination: Ludhiana, Parcel priority: 1
+Parcel ID: P3Tirupati286delivered: 0, Parcel origin: Tirupati, Parcel location: Tirupati, Parcel destination: Ludhiana, Parcel priority: 1
+next vertex
+Delhi
+Parcel ID: P1Delhi12delivered: 0, Parcel origin: Delhi, Parcel location: Delhi, Parcel destination: Ahmedabad, Parcel priority: 3
+Parcel ID: P1Delhi11delivered: 0, Parcel origin: Delhi, Parcel location: Delhi, Parcel destination: Nagpur, Parcel priority: 5
+Parcel ID: P1Delhi9delivered: 0, Parcel origin: Delhi, Parcel location: Delhi, Parcel destination: Surat, Parcel priority: 8
+Parcel ID: P1Delhi10delivered: 0, Parcel origin: Delhi, Parcel location: Delhi, Parcel destination: Surat, Parcel priority: 5
+next vertex
+Ahmedabad
+Parcel ID: P3Ahmedabad278delivered: 0, Parcel origin: Ahmedabad, Parcel location: Ahmedabad, Parcel destination: Chennai, Parcel priority: 3
+Parcel ID: P3Ahmedabad268delivered: 0, Parcel origin: Ahmedabad, Parcel location: Ahmedabad, Parcel destination: Hyderabad, Parcel priority: 9
+Parcel ID: P3Ahmedabad267delivered: 0, Parcel origin: Ahmedabad, Parcel location: Ahmedabad, Parcel destination: Hyderabad, Parcel priority: 3
+Parcel ID: P3Ahmedabad276delivered: 0, Parcel origin: Ahmedabad, Parcel location: Ahmedabad, Parcel destination: Hyderabad, Parcel priority: 6
+Parcel ID: P2Ahmedabad216delivered: 0, Parcel origin: Ahmedabad, Parcel location: Ahmedabad, Parcel destination: Vadodara, Parcel priority: 5
+Parcel ID: P2Ahmedabad217delivered: 0, Parcel origin: Ahmedabad, Parcel location: Ahmedabad, Parcel destination: Vadodara, Parcel priority: 4
+Parcel ID: P3Ahmedabad272delivered: 0, Parcel origin: Ahmedabad, Parcel location: Ahmedabad, Parcel destination: Ludhiana, Parcel priority: 10
+Parcel ID: P3Ahmedabad274delivered: 0, Parcel origin: Ahmedabad, Parcel location: Ahmedabad, Parcel destination: Ludhiana, Parcel priority: 9
+Parcel ID: P3Ahmedabad275delivered: 0, Parcel origin: Ahmedabad, Parcel location: Ahmedabad, Parcel destination: Ludhiana, Parcel priority: 9
+Parcel ID: P3Ahmedabad273delivered: 0, Parcel origin: Ahmedabad, Parcel location: Ahmedabad, Parcel destination: Ludhiana, Parcel priority: 6
+Parcel ID: P3Ahmedabad271delivered: 0, Parcel origin: Ahmedabad, Parcel location: Ahmedabad, Parcel destination: Ludhiana, Parcel priority: 6
+Parcel ID: P2Ahmedabad168delivered: 0, Parcel origin: Ahmedabad, Parcel location: Ahmedabad, Parcel destination: Ludhiana, Parcel priority: 6
+Parcel ID: P2Ahmedabad218delivered: 0, Parcel origin: Ahmedabad, Parcel location: Ahmedabad, Parcel destination: Nellore, Parcel priority: 6
+Parcel ID: P2Ahmedabad169delivered: 0, Parcel origin: Ahmedabad, Parcel location: Ahmedabad, Parcel destination: Ambala, Parcel priority: 4
+Parcel ID: P3Ahmedabad270delivered: 0, Parcel origin: Ahmedabad, Parcel location: Ahmedabad, Parcel destination: Agra, Parcel priority: 3
+Parcel ID: P2Ahmedabad170delivered: 0, Parcel origin: Ahmedabad, Parcel location: Ahmedabad, Parcel destination: Surat, Parcel priority: 8
+Parcel ID: P2Ahmedabad210delivered: 0, Parcel origin: Ahmedabad, Parcel location: Ahmedabad, Parcel destination: Nashik, Parcel priority: 10
+Parcel ID: P2Ahmedabad209delivered: 0, Parcel origin: Ahmedabad, Parcel location: Ahmedabad, Parcel destination: Nashik, Parcel priority: 8
+Parcel ID: P2Ahmedabad208delivered: 0, Parcel origin: Ahmedabad, Parcel location: Ahmedabad, Parcel destination: Nashik, Parcel priority: 7
+Parcel ID: P2Ahmedabad207delivered: 0, Parcel origin: Ahmedabad, Parcel location: Ahmedabad, Parcel destination: Nashik, Parcel priority: 2
+Parcel ID: P2Ahmedabad211delivered: 0, Parcel origin: Ahmedabad, Parcel location: Ahmedabad, Parcel destination: Nashik, Parcel priority: 5
+Parcel ID: P2Ahmedabad212delivered: 0, Parcel origin: Ahmedabad, Parcel location: Ahmedabad, Parcel destination: Nashik, Parcel priority: 5
+Parcel ID: P2Ahmedabad164delivered: 0, Parcel origin: Ahmedabad, Parcel location: Ahmedabad, Parcel destination: Mumbai, Parcel priority: 8
+Parcel ID: P2Ahmedabad163delivered: 0, Parcel origin: Ahmedabad, Parcel location: Ahmedabad, Parcel destination: Mumbai, Parcel priority: 6
+Parcel ID: P2Ahmedabad165delivered: 0, Parcel origin: Ahmedabad, Parcel location: Ahmedabad, Parcel destination: Mumbai, Parcel priority: 2
+Parcel ID: P3Ahmedabad279delivered: 0, Parcel origin: Ahmedabad, Parcel location: Ahmedabad, Parcel destination: Nagpur, Parcel priority: 10
+Parcel ID: P2Ahmedabad213delivered: 0, Parcel origin: Ahmedabad, Parcel location: Ahmedabad, Parcel destination: Nagpur, Parcel priority: 2
+Parcel ID: P2Ahmedabad167delivered: 0, Parcel origin: Ahmedabad, Parcel location: Ahmedabad, Parcel destination: Delhi, Parcel priority: 6
+Parcel ID: P2Ahmedabad215delivered: 0, Parcel origin: Ahmedabad, Parcel location: Ahmedabad, Parcel destination: Jaipur, Parcel priority: 2
+Parcel ID: P3Ahmedabad280delivered: 0, Parcel origin: Ahmedabad, Parcel location: Ahmedabad, Parcel destination: Tirupati, Parcel priority: 10
+Parcel ID: P3Ahmedabad269delivered: 0, Parcel origin: Ahmedabad, Parcel location: Ahmedabad, Parcel destination: Tirupati, Parcel priority: 1
+Parcel ID: P2Ahmedabad166delivered: 0, Parcel origin: Ahmedabad, Parcel location: Ahmedabad, Parcel destination: Tirupati, Parcel priority: 9
+Parcel ID: P2Ahmedabad214delivered: 0, Parcel origin: Ahmedabad, Parcel location: Ahmedabad, Parcel destination: Visakhapatnam, Parcel priority: 6
+Parcel ID: P3Ahmedabad277delivered: 0, Parcel origin: Ahmedabad, Parcel location: Ahmedabad, Parcel destination: Visakhapatnam, Parcel priority: 1
+next vertex
+Lucknow
+Parcel ID: P3Lucknow309delivered: 0, Parcel origin: Lucknow, Parcel location: Lucknow, Parcel destination: Chennai, Parcel priority: 4
+Parcel ID: P3Lucknow307delivered: 0, Parcel origin: Lucknow, Parcel location: Lucknow, Parcel destination: Bhopal, Parcel priority: 7
+Parcel ID: P3Lucknow304delivered: 0, Parcel origin: Lucknow, Parcel location: Lucknow, Parcel destination: Kanpur, Parcel priority: 7
+Parcel ID: P3Lucknow290delivered: 0, Parcel origin: Lucknow, Parcel location: Lucknow, Parcel destination: Bangalore, Parcel priority: 8
+Parcel ID: P3Lucknow289delivered: 0, Parcel origin: Lucknow, Parcel location: Lucknow, Parcel destination: Bangalore, Parcel priority: 5
+Parcel ID: P2Lucknow200delivered: 0, Parcel origin: Lucknow, Parcel location: Lucknow, Parcel destination: Vadodara, Parcel priority: 6
+Parcel ID: P3Lucknow292delivered: 0, Parcel origin: Lucknow, Parcel location: Lucknow, Parcel destination: Vadodara, Parcel priority: 4
+Parcel ID: P2Lucknow131delivered: 0, Parcel origin: Lucknow, Parcel location: Lucknow, Parcel destination: Faridabad, Parcel priority: 3
+Parcel ID: P2Lucknow201delivered: 0, Parcel origin: Lucknow, Parcel location: Lucknow, Parcel destination: Delhi, Parcel priority: 7
+Parcel ID: P2Lucknow132delivered: 0, Parcel origin: Lucknow, Parcel location: Lucknow, Parcel destination: Tirupati, Parcel priority: 2
+Parcel ID: P2Lucknow206delivered: 0, Parcel origin: Lucknow, Parcel location: Lucknow, Parcel destination: Tirupati, Parcel priority: 1
+Parcel ID: P3Lucknow310delivered: 0, Parcel origin: Lucknow, Parcel location: Lucknow, Parcel destination: Visakhapatnam, Parcel priority: 9
+Parcel ID: P2Lucknow130delivered: 0, Parcel origin: Lucknow, Parcel location: Lucknow, Parcel destination: Visakhapatnam, Parcel priority: 3
+Parcel ID: P3Lucknow297delivered: 0, Parcel origin: Lucknow, Parcel location: Lucknow, Parcel destination: Kolkata, Parcel priority: 10
+Parcel ID: P3Lucknow301delivered: 0, Parcel origin: Lucknow, Parcel location: Lucknow, Parcel destination: Kolkata, Parcel priority: 8
+Parcel ID: P3Lucknow299delivered: 0, Parcel origin: Lucknow, Parcel location: Lucknow, Parcel destination: Kolkata, Parcel priority: 10
+Parcel ID: P3Lucknow305delivered: 0, Parcel origin: Lucknow, Parcel location: Lucknow, Parcel destination: Kolkata, Parcel priority: 6
+Parcel ID: P3Lucknow300delivered: 0, Parcel origin: Lucknow, Parcel location: Lucknow, Parcel destination: Kolkata, Parcel priority: 6
+Parcel ID: P3Lucknow302delivered: 0, Parcel origin: Lucknow, Parcel location: Lucknow, Parcel destination: Kolkata, Parcel priority: 1
+Parcel ID: P3Lucknow303delivered: 0, Parcel origin: Lucknow, Parcel location: Lucknow, Parcel destination: Kolkata, Parcel priority: 1
+Parcel ID: P3Lucknow298delivered: 0, Parcel origin: Lucknow, Parcel location: Lucknow, Parcel destination: Kolkata, Parcel priority: 3
+Parcel ID: P2Lucknow126delivered: 0, Parcel origin: Lucknow, Parcel location: Lucknow, Parcel destination: Ahmedabad, Parcel priority: 10
+Parcel ID: P2Lucknow128delivered: 0, Parcel origin: Lucknow, Parcel location: Lucknow, Parcel destination: Ahmedabad, Parcel priority: 3
+Parcel ID: P2Lucknow127delivered: 0, Parcel origin: Lucknow, Parcel location: Lucknow, Parcel destination: Ahmedabad, Parcel priority: 5
+Parcel ID: P2Lucknow125delivered: 0, Parcel origin: Lucknow, Parcel location: Lucknow, Parcel destination: Ahmedabad, Parcel priority: 2
+Parcel ID: P2Lucknow129delivered: 0, Parcel origin: Lucknow, Parcel location: Lucknow, Parcel destination: Ahmedabad, Parcel priority: 1
+Parcel ID: P3Lucknow308delivered: 0, Parcel origin: Lucknow, Parcel location: Lucknow, Parcel destination: Belgaum, Parcel priority: 5
+Parcel ID: P2Lucknow199delivered: 0, Parcel origin: Lucknow, Parcel location: Lucknow, Parcel destination: Hyderabad, Parcel priority: 6
+Parcel ID: P2Lucknow198delivered: 0, Parcel origin: Lucknow, Parcel location: Lucknow, Parcel destination: Hyderabad, Parcel priority: 2
+Parcel ID: P2Lucknow197delivered: 0, Parcel origin: Lucknow, Parcel location: Lucknow, Parcel destination: Hyderabad, Parcel priority: 2
+Parcel ID: P3Lucknow291delivered: 0, Parcel origin: Lucknow, Parcel location: Lucknow, Parcel destination: Nagpur, Parcel priority: 7
+Parcel ID: P2Lucknow203delivered: 0, Parcel origin: Lucknow, Parcel location: Lucknow, Parcel destination: Jamshedpur, Parcel priority: 9
+Parcel ID: P2Lucknow204delivered: 0, Parcel origin: Lucknow, Parcel location: Lucknow, Parcel destination: Jamshedpur, Parcel priority: 5
+Parcel ID: P2Lucknow202delivered: 0, Parcel origin: Lucknow, Parcel location: Lucknow, Parcel destination: Ludhiana, Parcel priority: 1
+Parcel ID: P3Lucknow306delivered: 0, Parcel origin: Lucknow, Parcel location: Lucknow, Parcel destination: Ludhiana, Parcel priority: 1
+Parcel ID: P2Lucknow205delivered: 0, Parcel origin: Lucknow, Parcel location: Lucknow, Parcel destination: Ambala, Parcel priority: 9
+next vertex
+Kanpur
+Parcel ID: P1Kanpur124delivered: 0, Parcel origin: Kanpur, Parcel location: Kanpur, Parcel destination: Ludhiana, Parcel priority: 5
+Parcel ID: P1Kanpur122delivered: 0, Parcel origin: Kanpur, Parcel location: Kanpur, Parcel destination: Hyderabad, Parcel priority: 7
+Parcel ID: P1Kanpur114delivered: 0, Parcel origin: Kanpur, Parcel location: Kanpur, Parcel destination: Agra, Parcel priority: 10
+Parcel ID: P1Kanpur113delivered: 0, Parcel origin: Kanpur, Parcel location: Kanpur, Parcel destination: Agra, Parcel priority: 4
+Parcel ID: P1Kanpur118delivered: 0, Parcel origin: Kanpur, Parcel location: Kanpur, Parcel destination: Agra, Parcel priority: 5
+Parcel ID: P1Kanpur116delivered: 0, Parcel origin: Kanpur, Parcel location: Kanpur, Parcel destination: Agra, Parcel priority: 2
+Parcel ID: P1Kanpur117delivered: 0, Parcel origin: Kanpur, Parcel location: Kanpur, Parcel destination: Agra, Parcel priority: 3
+Parcel ID: P1Kanpur115delivered: 0, Parcel origin: Kanpur, Parcel location: Kanpur, Parcel destination: Agra, Parcel priority: 3
+Parcel ID: P1Kanpur121delivered: 0, Parcel origin: Kanpur, Parcel location: Kanpur, Parcel destination: Mumbai, Parcel priority: 9
+Parcel ID: P1Kanpur119delivered: 0, Parcel origin: Kanpur, Parcel location: Kanpur, Parcel destination: Tirupati, Parcel priority: 8
+Parcel ID: P1Kanpur123delivered: 0, Parcel origin: Kanpur, Parcel location: Kanpur, Parcel destination: Bangalore, Parcel priority: 4
+Parcel ID: P1Kanpur120delivered: 0, Parcel origin: Kanpur, Parcel location: Kanpur, Parcel destination: Visakhapatnam, Parcel priority: 6
+next vertex
+Nagpur
+Parcel ID: P3Nagpur366delivered: 0, Parcel origin: Nagpur, Parcel location: Nagpur, Parcel destination: Tirupati, Parcel priority: 4
+Parcel ID: P3Nagpur365delivered: 0, Parcel origin: Nagpur, Parcel location: Nagpur, Parcel destination: Delhi, Parcel priority: 10
+Parcel ID: P3Nagpur363delivered: 0, Parcel origin: Nagpur, Parcel location: Nagpur, Parcel destination: Delhi, Parcel priority: 3
+Parcel ID: P3Nagpur364delivered: 0, Parcel origin: Nagpur, Parcel location: Nagpur, Parcel destination: Delhi, Parcel priority: 9
+next vertex
+Visakhapatnam
+Parcel ID: P3Visakhapatnam296delivered: 0, Parcel origin: Visakhapatnam, Parcel location: Visakhapatnam, Parcel destination: Ludhiana, Parcel priority: 7
+Parcel ID: P3Visakhapatnam295delivered: 0, Parcel origin: Visakhapatnam, Parcel location: Visakhapatnam, Parcel destination: Patna, Parcel priority: 10
+Parcel ID: P3Visakhapatnam293delivered: 0, Parcel origin: Visakhapatnam, Parcel location: Visakhapatnam, Parcel destination: Kolkata, Parcel priority: 7
+Parcel ID: P3Visakhapatnam294delivered: 0, Parcel origin: Visakhapatnam, Parcel location: Visakhapatnam, Parcel destination: Kolkata, Parcel priority: 3
+next vertex
+Patna
+Parcel ID: P3Patna361delivered: 0, Parcel origin: Patna, Parcel location: Patna, Parcel destination: Chennai, Parcel priority: 3
+Parcel ID: P3Patna355delivered: 0, Parcel origin: Patna, Parcel location: Patna, Parcel destination: Nashik, Parcel priority: 10
+Parcel ID: P3Patna345delivered: 0, Parcel origin: Patna, Parcel location: Patna, Parcel destination: Vadodara, Parcel priority: 10
+Parcel ID: P3Patna350delivered: 0, Parcel origin: Patna, Parcel location: Patna, Parcel destination: Vadodara, Parcel priority: 9
+Parcel ID: P3Patna343delivered: 0, Parcel origin: Patna, Parcel location: Patna, Parcel destination: Vadodara, Parcel priority: 7
+Parcel ID: P3Patna347delivered: 0, Parcel origin: Patna, Parcel location: Patna, Parcel destination: Vadodara, Parcel priority: 5
+Parcel ID: P3Patna352delivered: 0, Parcel origin: Patna, Parcel location: Patna, Parcel destination: Vadodara, Parcel priority: 5
+Parcel ID: P3Patna348delivered: 0, Parcel origin: Patna, Parcel location: Patna, Parcel destination: Vadodara, Parcel priority: 4
+Parcel ID: P3Patna349delivered: 0, Parcel origin: Patna, Parcel location: Patna, Parcel destination: Vadodara, Parcel priority: 3
+Parcel ID: P3Patna346delivered: 0, Parcel origin: Patna, Parcel location: Patna, Parcel destination: Vadodara, Parcel priority: 2
+Parcel ID: P3Patna351delivered: 0, Parcel origin: Patna, Parcel location: Patna, Parcel destination: Vadodara, Parcel priority: 2
+Parcel ID: P3Patna344delivered: 0, Parcel origin: Patna, Parcel location: Patna, Parcel destination: Vadodara, Parcel priority: 2
+Parcel ID: P3Patna357delivered: 0, Parcel origin: Patna, Parcel location: Patna, Parcel destination: Vadodara, Parcel priority: 2
+Parcel ID: P1Patna70delivered: 0, Parcel origin: Patna, Parcel location: Patna, Parcel destination: Faridabad, Parcel priority: 7
+Parcel ID: P3Patna360delivered: 0, Parcel origin: Patna, Parcel location: Patna, Parcel destination: Rohtak, Parcel priority: 6
+Parcel ID: P3Patna359delivered: 0, Parcel origin: Patna, Parcel location: Patna, Parcel destination: Visakhapatnam, Parcel priority: 2
+Parcel ID: P1Patna59delivered: 0, Parcel origin: Patna, Parcel location: Patna, Parcel destination: Madurai, Parcel priority: 10
+Parcel ID: P3Patna353delivered: 0, Parcel origin: Patna, Parcel location: Patna, Parcel destination: Madurai, Parcel priority: 10
+Parcel ID: P1Patna57delivered: 0, Parcel origin: Patna, Parcel location: Patna, Parcel destination: Madurai, Parcel priority: 9
+Parcel ID: P1Patna5delivered: 0, Parcel origin: Patna, Parcel location: Patna, Parcel destination: Madurai, Parcel priority: 8
+Parcel ID: P1Patna55delivered: 0, Parcel origin: Patna, Parcel location: Patna, Parcel destination: Madurai, Parcel priority: 9
+Parcel ID: P3Patna358delivered: 0, Parcel origin: Patna, Parcel location: Patna, Parcel destination: Madurai, Parcel priority: 9
+Parcel ID: P1Patna58delivered: 0, Parcel origin: Patna, Parcel location: Patna, Parcel destination: Madurai, Parcel priority: 8
+Parcel ID: P1Patna53delivered: 0, Parcel origin: Patna, Parcel location: Patna, Parcel destination: Madurai, Parcel priority: 5
+Parcel ID: P1Patna60delivered: 0, Parcel origin: Patna, Parcel location: Patna, Parcel destination: Madurai, Parcel priority: 8
+Parcel ID: P1Patna61delivered: 0, Parcel origin: Patna, Parcel location: Patna, Parcel destination: Madurai, Parcel priority: 1
+Parcel ID: P1Patna56delivered: 0, Parcel origin: Patna, Parcel location: Patna, Parcel destination: Madurai, Parcel priority: 3
+Parcel ID: P1Patna54delivered: 0, Parcel origin: Patna, Parcel location: Patna, Parcel destination: Madurai, Parcel priority: 7
+Parcel ID: P1Patna1delivered: 0, Parcel origin: Patna, Parcel location: Patna, Parcel destination: Ludhiana, Parcel priority: 10
+Parcel ID: P1Patna2delivered: 0, Parcel origin: Patna, Parcel location: Patna, Parcel destination: Ludhiana, Parcel priority: 5
+Parcel ID: P1Patna3delivered: 0, Parcel origin: Patna, Parcel location: Patna, Parcel destination: Ludhiana, Parcel priority: 9
+Parcel ID: P1Patna4delivered: 0, Parcel origin: Patna, Parcel location: Patna, Parcel destination: Ludhiana, Parcel priority: 4
+Parcel ID: P1Patna7delivered: 0, Parcel origin: Patna, Parcel location: Patna, Parcel destination: Ludhiana, Parcel priority: 5
+Parcel ID: P1Patna62delivered: 0, Parcel origin: Patna, Parcel location: Patna, Parcel destination: Ahmedabad, Parcel priority: 7
+Parcel ID: P1Patna65delivered: 0, Parcel origin: Patna, Parcel location: Patna, Parcel destination: Kolkata, Parcel priority: 10
+Parcel ID: P3Patna362delivered: 0, Parcel origin: Patna, Parcel location: Patna, Parcel destination: Kolkata, Parcel priority: 2
+Parcel ID: P1Patna63delivered: 0, Parcel origin: Patna, Parcel location: Patna, Parcel destination: Delhi, Parcel priority: 6
+Parcel ID: P1Patna64delivered: 0, Parcel origin: Patna, Parcel location: Patna, Parcel destination: Jaipur, Parcel priority: 7
+Parcel ID: P3Patna354delivered: 0, Parcel origin: Patna, Parcel location: Patna, Parcel destination: Jaipur, Parcel priority: 6
+Parcel ID: P3Patna356delivered: 0, Parcel origin: Patna, Parcel location: Patna, Parcel destination: Nellore, Parcel priority: 1
+Parcel ID: P1Patna8delivered: 0, Parcel origin: Patna, Parcel location: Patna, Parcel destination: Pune, Parcel priority: 10
+Parcel ID: P1Patna6delivered: 0, Parcel origin: Patna, Parcel location: Patna, Parcel destination: Ambala, Parcel priority: 6
+Parcel ID: P1Patna66delivered: 0, Parcel origin: Patna, Parcel location: Patna, Parcel destination: Ambala, Parcel priority: 6
+Parcel ID: P1Patna68delivered: 0, Parcel origin: Patna, Parcel location: Patna, Parcel destination: Ambala, Parcel priority: 2
+Parcel ID: P1Patna67delivered: 0, Parcel origin: Patna, Parcel location: Patna, Parcel destination: Lucknow, Parcel priority: 7
+Parcel ID: P1Patna69delivered: 0, Parcel origin: Patna, Parcel location: Patna, Parcel destination: Bangalore, Parcel priority: 8
+next vertex
+Vadodara
+next vertex
+Faridabad
+next vertex
+Ambala
+Parcel ID: P1Ambala38delivered: 0, Parcel origin: Ambala, Parcel location: Ambala, Parcel destination: Nashik, Parcel priority: 2
+Parcel ID: P1Ambala29delivered: 0, Parcel origin: Ambala, Parcel location: Ambala, Parcel destination: Jamshedpur, Parcel priority: 7
+Parcel ID: P1Ambala36delivered: 0, Parcel origin: Ambala, Parcel location: Ambala, Parcel destination: Jamshedpur, Parcel priority: 2
+Parcel ID: P1Ambala32delivered: 0, Parcel origin: Ambala, Parcel location: Ambala, Parcel destination: Pune, Parcel priority: 2
+Parcel ID: P1Ambala33delivered: 0, Parcel origin: Ambala, Parcel location: Ambala, Parcel destination: Tirupati, Parcel priority: 1
+Parcel ID: P1Ambala23delivered: 0, Parcel origin: Ambala, Parcel location: Ambala, Parcel destination: Surat, Parcel priority: 10
+Parcel ID: P1Ambala27delivered: 0, Parcel origin: Ambala, Parcel location: Ambala, Parcel destination: Surat, Parcel priority: 10
+Parcel ID: P1Ambala24delivered: 0, Parcel origin: Ambala, Parcel location: Ambala, Parcel destination: Surat, Parcel priority: 8
+Parcel ID: P1Ambala21delivered: 0, Parcel origin: Ambala, Parcel location: Ambala, Parcel destination: Surat, Parcel priority: 9
+Parcel ID: P1Ambala22delivered: 0, Parcel origin: Ambala, Parcel location: Ambala, Parcel destination: Surat, Parcel priority: 9
+Parcel ID: P1Ambala20delivered: 0, Parcel origin: Ambala, Parcel location: Ambala, Parcel destination: Surat, Parcel priority: 7
+Parcel ID: P1Ambala25delivered: 0, Parcel origin: Ambala, Parcel location: Ambala, Parcel destination: Surat, Parcel priority: 8
+Parcel ID: P1Ambala19delivered: 0, Parcel origin: Ambala, Parcel location: Ambala, Parcel destination: Surat, Parcel priority: 5
+Parcel ID: P1Ambala26delivered: 0, Parcel origin: Ambala, Parcel location: Ambala, Parcel destination: Surat, Parcel priority: 6
+Parcel ID: P1Ambala28delivered: 0, Parcel origin: Ambala, Parcel location: Ambala, Parcel destination: Surat, Parcel priority: 5
+Parcel ID: P1Ambala35delivered: 0, Parcel origin: Ambala, Parcel location: Ambala, Parcel destination: Kanpur, Parcel priority: 8
+Parcel ID: P1Ambala37delivered: 0, Parcel origin: Ambala, Parcel location: Ambala, Parcel destination: Hyderabad, Parcel priority: 2
+Parcel ID: P1Ambala18delivered: 0, Parcel origin: Ambala, Parcel location: Ambala, Parcel destination: Belgaum, Parcel priority: 1
+Parcel ID: P1Ambala16delivered: 0, Parcel origin: Ambala, Parcel location: Ambala, Parcel destination: Chennai, Parcel priority: 6
+Parcel ID: P1Ambala15delivered: 0, Parcel origin: Ambala, Parcel location: Ambala, Parcel destination: Chennai, Parcel priority: 5
+Parcel ID: P1Ambala17delivered: 0, Parcel origin: Ambala, Parcel location: Ambala, Parcel destination: Chennai, Parcel priority: 5
+Parcel ID: P1Ambala30delivered: 0, Parcel origin: Ambala, Parcel location: Ambala, Parcel destination: Ahmedabad, Parcel priority: 10
+Parcel ID: P1Ambala31delivered: 0, Parcel origin: Ambala, Parcel location: Ambala, Parcel destination: Kolkata, Parcel priority: 1
+Parcel ID: P1Ambala34delivered: 0, Parcel origin: Ambala, Parcel location: Ambala, Parcel destination: Bhopal, Parcel priority: 5
+next vertex
+Madurai
+next vertex
+Jamshedpur
+Parcel ID: P1Jamshedpur46delivered: 0, Parcel origin: Jamshedpur, Parcel location: Jamshedpur, Parcel destination: Kanpur, Parcel priority: 9
+Parcel ID: P1Jamshedpur45delivered: 0, Parcel origin: Jamshedpur, Parcel location: Jamshedpur, Parcel destination: Kanpur, Parcel priority: 7
+Parcel ID: P1Jamshedpur47delivered: 0, Parcel origin: Jamshedpur, Parcel location: Jamshedpur, Parcel destination: Kanpur, Parcel priority: 8
+Parcel ID: P1Jamshedpur48delivered: 0, Parcel origin: Jamshedpur, Parcel location: Jamshedpur, Parcel destination: Kanpur, Parcel priority: 4
+Parcel ID: P1Jamshedpur49delivered: 0, Parcel origin: Jamshedpur, Parcel location: Jamshedpur, Parcel destination: Madurai, Parcel priority: 4
+Parcel ID: P1Jamshedpur52delivered: 0, Parcel origin: Jamshedpur, Parcel location: Jamshedpur, Parcel destination: Nellore, Parcel priority: 1
+Parcel ID: P1Jamshedpur51delivered: 0, Parcel origin: Jamshedpur, Parcel location: Jamshedpur, Parcel destination: Delhi, Parcel priority: 1
+Parcel ID: P1Jamshedpur50delivered: 0, Parcel origin: Jamshedpur, Parcel location: Jamshedpur, Parcel destination: Chennai, Parcel priority: 6
+next vertex
+Agra
+Parcel ID: P1Agra88delivered: 0, Parcel origin: Agra, Parcel location: Agra, Parcel destination: Hyderabad, Parcel priority: 5
+Parcel ID: P1Agra89delivered: 0, Parcel origin: Agra, Parcel location: Agra, Parcel destination: Ambala, Parcel priority: 4
+Parcel ID: P1Agra90delivered: 0, Parcel origin: Agra, Parcel location: Agra, Parcel destination: Ambala, Parcel priority: 2
+Parcel ID: P1Agra87delivered: 0, Parcel origin: Agra, Parcel location: Agra, Parcel destination: Nellore, Parcel priority: 4
+Parcel ID: P1Agra86delivered: 0, Parcel origin: Agra, Parcel location: Agra, Parcel destination: Nellore, Parcel priority: 2
+Parcel ID: P1Agra85delivered: 0, Parcel origin: Agra, Parcel location: Agra, Parcel destination: Nellore, Parcel priority: 2
+next vertex
+Belgaum
+Parcel ID: P3Belgaum315delivered: 0, Parcel origin: Belgaum, Parcel location: Belgaum, Parcel destination: Vadodara, Parcel priority: 10
+Parcel ID: P3Belgaum311delivered: 0, Parcel origin: Belgaum, Parcel location: Belgaum, Parcel destination: Vadodara, Parcel priority: 9
+Parcel ID: P3Belgaum313delivered: 0, Parcel origin: Belgaum, Parcel location: Belgaum, Parcel destination: Vadodara, Parcel priority: 9
+Parcel ID: P3Belgaum312delivered: 0, Parcel origin: Belgaum, Parcel location: Belgaum, Parcel destination: Vadodara, Parcel priority: 2
+Parcel ID: P3Belgaum314delivered: 0, Parcel origin: Belgaum, Parcel location: Belgaum, Parcel destination: Vadodara, Parcel priority: 5
+Parcel ID: P3Belgaum316delivered: 0, Parcel origin: Belgaum, Parcel location: Belgaum, Parcel destination: Vadodara, Parcel priority: 8
+Parcel ID: P3Belgaum318delivered: 0, Parcel origin: Belgaum, Parcel location: Belgaum, Parcel destination: Vadodara, Parcel priority: 2
+Parcel ID: P2Belgaum245delivered: 0, Parcel origin: Belgaum, Parcel location: Belgaum, Parcel destination: Faridabad, Parcel priority: 9
+Parcel ID: P2Belgaum246delivered: 0, Parcel origin: Belgaum, Parcel location: Belgaum, Parcel destination: Faridabad, Parcel priority: 2
+Parcel ID: P2Belgaum243delivered: 0, Parcel origin: Belgaum, Parcel location: Belgaum, Parcel destination: Delhi, Parcel priority: 4
+Parcel ID: P2Belgaum244delivered: 0, Parcel origin: Belgaum, Parcel location: Belgaum, Parcel destination: Nagpur, Parcel priority: 6
+Parcel ID: P2Belgaum235delivered: 0, Parcel origin: Belgaum, Parcel location: Belgaum, Parcel destination: Ludhiana, Parcel priority: 10
+Parcel ID: P2Belgaum240delivered: 0, Parcel origin: Belgaum, Parcel location: Belgaum, Parcel destination: Ludhiana, Parcel priority: 6
+Parcel ID: P2Belgaum238delivered: 0, Parcel origin: Belgaum, Parcel location: Belgaum, Parcel destination: Ludhiana, Parcel priority: 8
+Parcel ID: P2Belgaum234delivered: 0, Parcel origin: Belgaum, Parcel location: Belgaum, Parcel destination: Ludhiana, Parcel priority: 5
+Parcel ID: P2Belgaum242delivered: 0, Parcel origin: Belgaum, Parcel location: Belgaum, Parcel destination: Ludhiana, Parcel priority: 5
+Parcel ID: P2Belgaum233delivered: 0, Parcel origin: Belgaum, Parcel location: Belgaum, Parcel destination: Ludhiana, Parcel priority: 6
+Parcel ID: P2Belgaum239delivered: 0, Parcel origin: Belgaum, Parcel location: Belgaum, Parcel destination: Ludhiana, Parcel priority: 7
+Parcel ID: P2Belgaum236delivered: 0, Parcel origin: Belgaum, Parcel location: Belgaum, Parcel destination: Ludhiana, Parcel priority: 3
+Parcel ID: P2Belgaum241delivered: 0, Parcel origin: Belgaum, Parcel location: Belgaum, Parcel destination: Ludhiana, Parcel priority: 3
+Parcel ID: P2Belgaum237delivered: 0, Parcel origin: Belgaum, Parcel location: Belgaum, Parcel destination: Ludhiana, Parcel priority: 2
+Parcel ID: P3Belgaum319delivered: 0, Parcel origin: Belgaum, Parcel location: Belgaum, Parcel destination: Ludhiana, Parcel priority: 3
+Parcel ID: P2Belgaum247delivered: 0, Parcel origin: Belgaum, Parcel location: Belgaum, Parcel destination: Surat, Parcel priority: 1
+Parcel ID: P3Belgaum322delivered: 0, Parcel origin: Belgaum, Parcel location: Belgaum, Parcel destination: Visakhapatnam, Parcel priority: 6
+Parcel ID: P3Belgaum320delivered: 0, Parcel origin: Belgaum, Parcel location: Belgaum, Parcel destination: Jammu, Parcel priority: 9
+Parcel ID: P3Belgaum317delivered: 0, Parcel origin: Belgaum, Parcel location: Belgaum, Parcel destination: Rohtak, Parcel priority: 9
+Parcel ID: P2Belgaum251delivered: 0, Parcel origin: Belgaum, Parcel location: Belgaum, Parcel destination: Tirupati, Parcel priority: 9
+Parcel ID: P2Belgaum248delivered: 0, Parcel origin: Belgaum, Parcel location: Belgaum, Parcel destination: Mumbai, Parcel priority: 5
+Parcel ID: P2Belgaum249delivered: 0, Parcel origin: Belgaum, Parcel location: Belgaum, Parcel destination: Bangalore, Parcel priority: 8
+Parcel ID: P2Belgaum250delivered: 0, Parcel origin: Belgaum, Parcel location: Belgaum, Parcel destination: Lucknow, Parcel priority: 7
+Parcel ID: P2Belgaum252delivered: 0, Parcel origin: Belgaum, Parcel location: Belgaum, Parcel destination: Ahmedabad, Parcel priority: 6
+Parcel ID: P3Belgaum321delivered: 0, Parcel origin: Belgaum, Parcel location: Belgaum, Parcel destination: Ahmedabad, Parcel priority: 2
+next vertex
+Rohtak
+Parcel ID: P2Rohtak152delivered: 0, Parcel origin: Rohtak, Parcel location: Rohtak, Parcel destination: Jamshedpur, Parcel priority: 9
+Parcel ID: P2Rohtak151delivered: 0, Parcel origin: Rohtak, Parcel location: Rohtak, Parcel destination: Hyderabad, Parcel priority: 6
+Parcel ID: P2Rohtak144delivered: 0, Parcel origin: Rohtak, Parcel location: Rohtak, Parcel destination: Patna, Parcel priority: 8
+Parcel ID: P2Rohtak143delivered: 0, Parcel origin: Rohtak, Parcel location: Rohtak, Parcel destination: Patna, Parcel priority: 7
+Parcel ID: P2Rohtak145delivered: 0, Parcel origin: Rohtak, Parcel location: Rohtak, Parcel destination: Patna, Parcel priority: 3
+Parcel ID: P2Rohtak146delivered: 0, Parcel origin: Rohtak, Parcel location: Rohtak, Parcel destination: Patna, Parcel priority: 1
+Parcel ID: P2Rohtak147delivered: 0, Parcel origin: Rohtak, Parcel location: Rohtak, Parcel destination: Patna, Parcel priority: 3
+Parcel ID: P2Rohtak148delivered: 0, Parcel origin: Rohtak, Parcel location: Rohtak, Parcel destination: Belgaum, Parcel priority: 3
+Parcel ID: P2Rohtak149delivered: 0, Parcel origin: Rohtak, Parcel location: Rohtak, Parcel destination: Ahmedabad, Parcel priority: 3
+Parcel ID: P2Rohtak150delivered: 0, Parcel origin: Rohtak, Parcel location: Rohtak, Parcel destination: Ludhiana, Parcel priority: 2
+next vertex
+Kolkata
+Parcel ID: P1Kolkata112delivered: 0, Parcel origin: Kolkata, Parcel location: Kolkata, Parcel destination: Jammu, Parcel priority: 7
+Parcel ID: P1Kolkata111delivered: 0, Parcel origin: Kolkata, Parcel location: Kolkata, Parcel destination: Surat, Parcel priority: 10
+next vertex
+Mangalore
+Parcel ID: P1Mangalore84delivered: 0, Parcel origin: Mangalore, Parcel location: Mangalore, Parcel destination: Mumbai, Parcel priority: 3
+Parcel ID: P1Mangalore72delivered: 0, Parcel origin: Mangalore, Parcel location: Mangalore, Parcel destination: Bangalore, Parcel priority: 8
+Parcel ID: P1Mangalore74delivered: 0, Parcel origin: Mangalore, Parcel location: Mangalore, Parcel destination: Bangalore, Parcel priority: 8
+Parcel ID: P1Mangalore73delivered: 0, Parcel origin: Mangalore, Parcel location: Mangalore, Parcel destination: Bangalore, Parcel priority: 6
+Parcel ID: P1Mangalore71delivered: 0, Parcel origin: Mangalore, Parcel location: Mangalore, Parcel destination: Bangalore, Parcel priority: 1
+Parcel ID: P1Mangalore75delivered: 0, Parcel origin: Mangalore, Parcel location: Mangalore, Parcel destination: Bangalore, Parcel priority: 1
+Parcel ID: P1Mangalore76delivered: 0, Parcel origin: Mangalore, Parcel location: Mangalore, Parcel destination: Bangalore, Parcel priority: 6
+Parcel ID: P1Mangalore77delivered: 0, Parcel origin: Mangalore, Parcel location: Mangalore, Parcel destination: Bangalore, Parcel priority: 3
+Parcel ID: P1Mangalore78delivered: 0, Parcel origin: Mangalore, Parcel location: Mangalore, Parcel destination: Delhi, Parcel priority: 5
+Parcel ID: P1Mangalore83delivered: 0, Parcel origin: Mangalore, Parcel location: Mangalore, Parcel destination: Hyderabad, Parcel priority: 6
+Parcel ID: P1Mangalore80delivered: 0, Parcel origin: Mangalore, Parcel location: Mangalore, Parcel destination: Hyderabad, Parcel priority: 4
+Parcel ID: P1Mangalore82delivered: 0, Parcel origin: Mangalore, Parcel location: Mangalore, Parcel destination: Kanpur, Parcel priority: 10
+Parcel ID: P1Mangalore81delivered: 0, Parcel origin: Mangalore, Parcel location: Mangalore, Parcel destination: Surat, Parcel priority: 8
+Parcel ID: P1Mangalore79delivered: 0, Parcel origin: Mangalore, Parcel location: Mangalore, Parcel destination: Pune, Parcel priority: 9
+next vertex
+Chennai
+Parcel ID: P3Chennai368delivered: 0, Parcel origin: Chennai, Parcel location: Chennai, Parcel destination: Ludhiana, Parcel priority: 10
+Parcel ID: P3Chennai369delivered: 0, Parcel origin: Chennai, Parcel location: Chennai, Parcel destination: Ludhiana, Parcel priority: 6
+Parcel ID: P3Chennai367delivered: 0, Parcel origin: Chennai, Parcel location: Chennai, Parcel destination: Ludhiana, Parcel priority: 8
+Parcel ID: P3Chennai266delivered: 0, Parcel origin: Chennai, Parcel location: Chennai, Parcel destination: Ludhiana, Parcel priority: 1
+Parcel ID: P3Chennai261delivered: 0, Parcel origin: Chennai, Parcel location: Chennai, Parcel destination: Ambala, Parcel priority: 1
+Parcel ID: P3Chennai260delivered: 0, Parcel origin: Chennai, Parcel location: Chennai, Parcel destination: Lucknow, Parcel priority: 1
+Parcel ID: P3Chennai265delivered: 0, Parcel origin: Chennai, Parcel location: Chennai, Parcel destination: Hyderabad, Parcel priority: 1
+Parcel ID: P1Chennai14delivered: 0, Parcel origin: Chennai, Parcel location: Chennai, Parcel destination: Surat, Parcel priority: 6
+Parcel ID: P3Chennai371delivered: 0, Parcel origin: Chennai, Parcel location: Chennai, Parcel destination: Surat, Parcel priority: 1
+Parcel ID: P3Chennai258delivered: 0, Parcel origin: Chennai, Parcel location: Chennai, Parcel destination: Nashik, Parcel priority: 9
+Parcel ID: P3Chennai255delivered: 0, Parcel origin: Chennai, Parcel location: Chennai, Parcel destination: Nashik, Parcel priority: 7
+Parcel ID: P3Chennai254delivered: 0, Parcel origin: Chennai, Parcel location: Chennai, Parcel destination: Nashik, Parcel priority: 7
+Parcel ID: P3Chennai259delivered: 0, Parcel origin: Chennai, Parcel location: Chennai, Parcel destination: Nashik, Parcel priority: 7
+Parcel ID: P3Chennai256delivered: 0, Parcel origin: Chennai, Parcel location: Chennai, Parcel destination: Nashik, Parcel priority: 1
+Parcel ID: P3Chennai253delivered: 0, Parcel origin: Chennai, Parcel location: Chennai, Parcel destination: Nashik, Parcel priority: 4
+Parcel ID: P3Chennai257delivered: 0, Parcel origin: Chennai, Parcel location: Chennai, Parcel destination: Nashik, Parcel priority: 6
+Parcel ID: P1Chennai13delivered: 0, Parcel origin: Chennai, Parcel location: Chennai, Parcel destination: Nashik, Parcel priority: 3
+Parcel ID: P3Chennai372delivered: 0, Parcel origin: Chennai, Parcel location: Chennai, Parcel destination: Visakhapatnam, Parcel priority: 8
+Parcel ID: P3Chennai370delivered: 0, Parcel origin: Chennai, Parcel location: Chennai, Parcel destination: Madurai, Parcel priority: 10
+Parcel ID: P3Chennai262delivered: 0, Parcel origin: Chennai, Parcel location: Chennai, Parcel destination: Jammu, Parcel priority: 1
+Parcel ID: P3Chennai263delivered: 0, Parcel origin: Chennai, Parcel location: Chennai, Parcel destination: Ahmedabad, Parcel priority: 6
+Parcel ID: P3Chennai264delivered: 0, Parcel origin: Chennai, Parcel location: Chennai, Parcel destination: Delhi, Parcel priority: 9
+next vertex
+Pune
+Parcel ID: P1Pune107delivered: 0, Parcel origin: Pune, Parcel location: Pune, Parcel destination: Kolkata, Parcel priority: 1
+Parcel ID: P1Pune109delivered: 0, Parcel origin: Pune, Parcel location: Pune, Parcel destination: Surat, Parcel priority: 4
+Parcel ID: P1Pune108delivered: 0, Parcel origin: Pune, Parcel location: Pune, Parcel destination: Nashik, Parcel priority: 4
+Parcel ID: P1Pune105delivered: 0, Parcel origin: Pune, Parcel location: Pune, Parcel destination: Rohtak, Parcel priority: 2
+Parcel ID: P1Pune104delivered: 0, Parcel origin: Pune, Parcel location: Pune, Parcel destination: Chennai, Parcel priority: 1
+Parcel ID: P1Pune91delivered: 0, Parcel origin: Pune, Parcel location: Pune, Parcel destination: Visakhapatnam, Parcel priority: 10
+Parcel ID: P1Pune98delivered: 0, Parcel origin: Pune, Parcel location: Pune, Parcel destination: Visakhapatnam, Parcel priority: 10
+Parcel ID: P1Pune97delivered: 0, Parcel origin: Pune, Parcel location: Pune, Parcel destination: Visakhapatnam, Parcel priority: 9
+Parcel ID: P1Pune92delivered: 0, Parcel origin: Pune, Parcel location: Pune, Parcel destination: Visakhapatnam, Parcel priority: 9
+Parcel ID: P1Pune100delivered: 0, Parcel origin: Pune, Parcel location: Pune, Parcel destination: Visakhapatnam, Parcel priority: 7
+Parcel ID: P1Pune96delivered: 0, Parcel origin: Pune, Parcel location: Pune, Parcel destination: Visakhapatnam, Parcel priority: 4
+Parcel ID: P1Pune93delivered: 0, Parcel origin: Pune, Parcel location: Pune, Parcel destination: Visakhapatnam, Parcel priority: 5
+Parcel ID: P1Pune94delivered: 0, Parcel origin: Pune, Parcel location: Pune, Parcel destination: Visakhapatnam, Parcel priority: 5
+Parcel ID: P1Pune99delivered: 0, Parcel origin: Pune, Parcel location: Pune, Parcel destination: Visakhapatnam, Parcel priority: 1
+Parcel ID: P1Pune95delivered: 0, Parcel origin: Pune, Parcel location: Pune, Parcel destination: Visakhapatnam, Parcel priority: 1
+Nagpur, Parcel priority: 4
+Parcel ID: P1Bhopal44delivered: 0, Parcel origin: Bhopal, Parcel location: Bhopal, Parcel destination: Nagpur, Parcel priority: 2
+Parcel ID: P3Bhopal337delivered: 0, Parcel origin: Bhopal, Parcel location: Bhopal, Parcel destination: Surat, Parcel priority: 9
+Parcel ID: P3Bhopal341delivered: 0, Parcel origin: Bhopal, Parcel location: Bhopal, Parcel destination: Surat, Parcel priority: 2
+Parcel ID: P1Bhopal42delivered: 0, Parcel origin: Bhopal, Parcel location: Bhopal, Parcel destination: Vadodara, Parcel priority: 7        
+Parcel ID: P3Bhopal338delivered: 0, Parcel origin: Bhopal, Parcel location: Bhopal, Parcel destination: Vadodara, Parcel priority: 4       
+Parcel ID: P1Bhopal43delivered: 0, Parcel origin: Bhopal, Parcel location: Bhopal, Parcel destination: Nashik, Parcel priority: 1
+Parcel ID: P3Bhopal332delivered: 0, Parcel origin: Bhopal, Parcel location: Bhopal, Parcel destination: Visakhapatnam, Parcel priority: 8  
+Parcel ID: P3Bhopal327delivered: 0, Parcel origin: Bhopal, Parcel location: Bhopal, Parcel destination: Visakhapatnam, Parcel priority: 6  
+Parcel ID: P3Bhopal329delivered: 0, Parcel origin: Bhopal, Parcel location: Bhopal, Parcel destination: Visakhapatnam, Parcel priority: 6  
+Parcel ID: P3Bhopal323delivered: 0, Parcel origin: Bhopal, Parcel location: Bhopal, Parcel destination: Visakhapatnam, Parcel priority: 3  
+Parcel ID: P3Bhopal326delivered: 0, Parcel origin: Bhopal, Parcel location: Bhopal, Parcel destination: Visakhapatnam, Parcel priority: 5  
+Parcel ID: P3Bhopal325delivered: 0, Parcel origin: Bhopal, Parcel location: Bhopal, Parcel destination: Visakhapatnam, Parcel priority: 3  
+Parcel ID: P3Bhopal328delivered: 0, Parcel origin: Bhopal, Parcel location: Bhopal, Parcel destination: Visakhapatnam, Parcel priority: 5  
+Parcel ID: P3Bhopal330delivered: 0, Parcel origin: Bhopal, Parcel location: Bhopal, Parcel destination: Visakhapatnam, Parcel priority: 1  
+Parcel ID: P3Bhopal331delivered: 0, Parcel origin: Bhopal, Parcel location: Bhopal, Parcel destination: Visakhapatnam, Parcel priority: 1  
+Parcel ID: P3Bhopal324delivered: 0, Parcel origin: Bhopal, Parcel location: Bhopal, Parcel destination: Visakhapatnam, Parcel priority: 4  
+next vertex
+Jammu
+next vertex
+Jaipur
+next vertex
+Nellore
+next vertex
